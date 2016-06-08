@@ -1,0 +1,7 @@
+package com.acw
+
+class Course {
+
+    static constraints = {
+    }
+}

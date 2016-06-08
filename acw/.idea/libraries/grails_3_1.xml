@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="grails-3.1">
+    <ANNOTATIONS>
+      <root url="file://$USER_HOME$/install/grails-3.1.8" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="file://$USER_HOME$/install/grails-3.1.8" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="file://$USER_HOME$/install/grails-3.1.8" />
+    </JAVADOC>
+    <NATIVE>
+      <root url="file://$USER_HOME$/install/grails-3.1.8" />
+    </NATIVE>
+    <SOURCES>
+      <root url="file://$USER_HOME$/install/grails-3.1.8" />
+    </SOURCES>
+    <jarDirectory url="file://$USER_HOME$/install/grails-3.1.8" recursive="false" />
+    <jarDirectory url="file://$USER_HOME$/install/grails-3.1.8" recursive="false" type="SOURCES" />
+  </library>
+</component>
